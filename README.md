@@ -9,7 +9,7 @@ Documents and Reports written for **"CS 491: Senior Design Project I"** course i
 
 - **Mert Emre Yamalı**  
   *Role: Developer*  
-  Email: [mertemreyamali@gmail.com](mailto:mertemreyamali@gmail.com)
+  Email: [emre.yamali@ug.bilkent.edu.tr](mailto:emre.yamali@ug.bilkent.edu.tr)
 
 - **İsmail Barış Sunar**  
   *Role: Developer*  

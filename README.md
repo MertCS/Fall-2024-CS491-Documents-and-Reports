@@ -2,6 +2,9 @@
 
 Documents and Reports written for **"CS 491: Senior Design Project I"** course in **Bilkent University** for the Fall semester of 2024.
 
+## Website
+Visit the project website: [yeschefbilkent.netlify.app](https://yeschefbilkent.netlify.app)
+
 ## Contributors
 - **Serhan Turan**  
   *Role: Developer*  
